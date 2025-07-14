@@ -1,0 +1,1 @@
+docker build -t akademates_front_end.
