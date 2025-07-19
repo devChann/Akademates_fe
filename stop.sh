@@ -1,0 +1,2 @@
+docker stop akademates_front_end
+docker remove akademates_front_end
